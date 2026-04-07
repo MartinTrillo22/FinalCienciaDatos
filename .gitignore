@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 /dataset proceso residentado medico - CONSOLIDADO.csv
 dataset_limpio.csv
+dataset_limpio2.csv
